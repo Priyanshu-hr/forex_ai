@@ -1,0 +1,23 @@
+# Data & Analysis
+pandas
+numpy
+scipy
+
+# Machine Learning
+scikit-learn
+
+# Web Framework
+streamlit
+
+# Visualization
+plotly
+matplotlib
+seaborn
+
+# Data Fetching
+yfinance
+requests
+
+# Utilities
+python-dotenv
+joblib
